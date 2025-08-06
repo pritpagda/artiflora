@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
+artiflora-c8c9a-firebase-adminsdk-fbsvc-1c411ef2eb.json
+
+.idea/
